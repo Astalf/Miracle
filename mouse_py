@@ -1,0 +1,14 @@
+>>> pyautogui.position()
+
+# вывод
+Point(x=182, y=495)
+
+>>> pyautogui.position()
+
+# вывод
+Point(x=1365, y=767)
+
+>>> pyautogui.position()
+
+# вывод
+Point(x=1338, y=767)
